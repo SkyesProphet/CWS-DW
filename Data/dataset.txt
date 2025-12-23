@@ -1,0 +1,10 @@
+Please place the dataset in this folder.
+The structure is as follows:
+|-images
+  -sample1：ontaining multiple images
+  -sample2
+  -sample3
+  ...
+|-training text
+|-validation text
+|-test text
